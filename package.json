@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-"scripts": {
-  "dev": "nodemon src/index.js",
-  "start": "node src/index.js",
-  "test": "jest",
-  "test:watch": "jest --watch"
-},
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adelauliaw/harisenin-nodejs-rest-api-part-3.git"
